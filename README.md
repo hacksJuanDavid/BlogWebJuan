@@ -55,7 +55,7 @@ touch .env
 ## Add environment variables to .env file
 
 ```bash
-DATABASE_URL=postgres://juan:xxxxxxxx@xxxxxxxxxxxxxxxxxxx
+DATABASE_URL=postgres://postgres.wwhawmgdrxlletwxhuyu:sHiscL1Uh7mLfZfM@aws-0-us-west-1.pooler.supabase.com:5432/postgres
 PORT=3000
 ```
 
